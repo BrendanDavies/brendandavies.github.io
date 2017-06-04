@@ -1,5 +1,3 @@
 ## Brendan Davies Sandbox
 
-
-
-- [Golden cirle] (https://brendandavies.github.io/golden-ratio/) 
+- [Golden Ratio](https://brendandavies.github.io/golden-ratio/) 
